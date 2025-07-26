@@ -1,10 +1,14 @@
-# snake.yml (versão corrigida para salvar na main branch)
+# snake.yml (versão final com permissões corrigidas)
 name: Generate Snake Animation
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+
+# <<< A CORREÇÃO ESTÁ AQUI
+permissions:
+  contents: write
 
 jobs:
   generate:
