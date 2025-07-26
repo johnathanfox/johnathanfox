@@ -66,5 +66,5 @@ Estou sempre em busca de desafios que me permitam combinar minhas habilidades pa
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/johnathanfox/johnathanfox/output/github-contribution-grid-snek.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/johnathanfox/johnathanfox/main/dist/github-contribution-grid-snek.svg" alt="Snake animation">
 </p>
